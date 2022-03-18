@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/alejoduke52/MobileApp/issues"
   },
-  "homepage": "https://github.com/alejoduke52/MobileApp#readme"
+  "homepage": "https://github.com/alejoduke52/MobileApp#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
 }
