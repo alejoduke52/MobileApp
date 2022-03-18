@@ -1,0 +1,19 @@
+{
+  "name": "mobileapp",
+  "version": "1.0.0",
+  "description": "Mobile App with Sass for UPB class",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alejoduke52/MobileApp.git"
+  },
+  "author": "Ale Duk, Dani Hernandez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alejoduke52/MobileApp/issues"
+  },
+  "homepage": "https://github.com/alejoduke52/MobileApp#readme"
+}
